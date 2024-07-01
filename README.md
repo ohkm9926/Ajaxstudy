@@ -1,5 +1,10 @@
 ## 공부 주제
-- ajax 다뤄보기 
+- ajax 다뤄보기
+
+## 개발환경
+-  java17
+-  inteillJ IDEA(무료버전)
+-  springboot 3.3.1 버전
 
 ## 사용 Dependency
 - Lombok
